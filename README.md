@@ -7,7 +7,9 @@
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=madhiyono&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 <p align="center">
-  <img alt="Open to opportunities" src="https://img.shields.io/badge/Open%20to%20Opportunities-00C853?style=for-the-badge&labelColor=111" />
+  <a href="https://madhiyono.dev">
+    <img alt="Email" src="https://img.shields.io/badge/Portfolio-Visit-543DE0?style=for-the-badge" />
+  </a>
   <a href="mailto:madhiyonoo@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
