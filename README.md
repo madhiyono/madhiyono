@@ -7,7 +7,7 @@
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=madhiyono&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 <p align="center">
-  <a href="https://madhiyono.dev">
+  <a href="https://madhiyono.web.id">
     <img alt="Email" src="https://img.shields.io/badge/Portfolio-Visit-543DE0?style=for-the-badge" />
   </a>
   <a href="mailto:madhiyonoo@gmail.com">
